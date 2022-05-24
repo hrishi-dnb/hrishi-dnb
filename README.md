@@ -1,6 +1,6 @@
 -   👋 Hi, I’m @hrishi-dnb
 -   👀 I’m interested in Full Stack Development
--   🌱 I’m currently learning Nextjs, react-three-fiber tailwindcss, AWS, SpringBoot
+-   🌱 I’m currently learning Nextjs, react-three-fiber, tailwindcss, AWS, SpringBoot
 <!---
 -   💞️ I’m looking to collaborate on
 -   📫 How to reach me hrishikesh@denbu.io
